@@ -36,7 +36,7 @@ Enter another expense: 300
 Total Expense: 550
 ```
 
-## 📚 What I Learned
+## What I Learned
 
 - Variables
 - User Input
@@ -45,7 +45,7 @@ Total Expense: 550
 - Accumulator Variables
 - Conditional Statements
 
-## 👩‍💻 Author
+## Author
 
 Khadeeja Aqeel
 
